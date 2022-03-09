@@ -1,0 +1,8 @@
+export const GET_BOOKS = "GET_BOOKS";
+export const SET_CATEGORY_BOOKS = "SET_CATEGORY_BOOKS";
+export const SET_ERROR = "SET_ERROR";
+// export const ADD_BASKET = "ADD_BASKET";
+// export const EDIT_BASKET = "EDIT_BASKET";
+// export const GET_PRODUCTS = "GET_PRODUCTS";
+// export const SET_ADMIN_PRODUCTS = "SET_ADMIN_PRODUCTS";
+// export const SET_ADMIN_PRODUCTS_CATIGORY = "SET_ADMIN_PRODUCTS_CATIGORY";
